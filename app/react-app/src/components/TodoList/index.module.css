@@ -1,0 +1,5 @@
+/* 完了した項目に適用するクラス */
+.done {
+    text-decoration: line-through; /* 打ち消し線を適用 */
+    color: gray; /* 完了した項目はグレーにするなど視覚的に区別 */
+  }
